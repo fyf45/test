@@ -2,4 +2,4 @@ hello world;
 我是分支fyf，我修改了里边的内容
 
 
-我是bug分支，我修改了一个bug
+我是bug分支，我修改了一堆bug
